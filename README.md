@@ -110,6 +110,7 @@ These filters allow users to dynamically explore the data.
 * Applied filters for relevant insights
 
 ---
+<img width="1336" height="746" alt="image" src="https://github.com/user-attachments/assets/99c0d601-e246-46e9-919e-0fd8a8432930" />
 
 ## 📌 Key Insights
 
@@ -136,5 +137,3 @@ This dashboard helps businesses:
 
 **Roshan Jangade**
 
-✅ Interview explanation script
-✅ GitHub portfolio (with badges + visuals)
